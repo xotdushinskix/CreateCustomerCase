@@ -1,9 +1,9 @@
-URL = 'http://dev:q1w2e3r4@erp.bintime.com:81/users/createcustomer'
-testURL = 'http://dev:q1w2e3r4@testing.bintime.com/users/createcustomer'
+URL = 'http://bintime.com/users/createcustomer'
+testURL = 'http://testing.com/users/createcustomer'
 loginField = '//*[@id="UserLogin_username"]'
 loginData = 'admin'
 passwordField = '//*[@id="UserLogin_password"]'
-passwordData = 'admin'
+passwordData = 'qwerty'
 loginButton = '//*[@id="login-form"]//div[6]/input'
 
 
